@@ -1,0 +1,12 @@
+Package: repotest
+Title: Print Hello World
+Version: 1.0.0
+Authors@R: person("Nicolas", "Casajus", email = "nicolas.casajus@gmail.com", role = c("aut", "cre"))
+Description: Print Hello World
+Depends: R (>= 3.4.0)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/chaireBioNorth/repotest
+RoxygenNote: 6.0.1
+NeedsCompilation: no
