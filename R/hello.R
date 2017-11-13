@@ -13,5 +13,5 @@
 #' hello("Hello world!")
 
 hello <- function(text) {
-  print()
+  print(text)
 }
