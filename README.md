@@ -20,10 +20,10 @@ library(devtools)
 Then install the **repotest** package:
 
 ```r
-# Install the < refR > package from GitHub
+# Install the < repotest > package from GitHub
 devtools::install_github("chaireBioNorth/repotest", build_vignettes = TRUE)
 
-# Load the < refR > package
+# Load the < repotest > package
 library(repotest)
 ```
 
