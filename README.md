@@ -1,5 +1,5 @@
-# repo-test
+# repotest
 
-Ceci est un test
+This is a test
 
-[![Travis](https://travis-ci.org/chaireBioNorth/repo-test)](https://travis-ci.org/chaireBioNorth/repo-test)
+[![Travis](https://travis-ci.org/chaireBioNorth/repotest.svg?branch=master)](https://travis-ci.org/chaireBioNorth/repotest)
