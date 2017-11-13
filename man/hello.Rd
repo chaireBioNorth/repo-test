@@ -17,4 +17,5 @@ Print Hello World.
 }
 \examples{
 # Just try it
+hello("Hello world!")
 }

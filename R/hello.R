@@ -10,7 +10,8 @@
 #'
 #' @examples
 #' # Just try it
+#' hello("Hello world!")
 
 hello <- function(text) {
-  print("Hello world!")
+  print()
 }
