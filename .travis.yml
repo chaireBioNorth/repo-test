@@ -1,4 +1,4 @@
-language: r
+language: c
 warnings_are_errors: false
 sudo: required
 
