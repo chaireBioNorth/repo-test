@@ -1,0 +1,15 @@
+language: r
+warnings_are_errors: false
+sudo: required
+
+notifications:
+  slack:
+    rooms: biodiversitenordique:qU5uqLz1vlc1ItN2hOrsp0bS
+    on_success: always
+    on_failure: always
+    template:
+      - "%{repository} (%{commit}) : %{message} %{foo} "
+      - "%{build_url}"
+  email:
+    recipients:
+      - nicolas.casajus@gmail.com
